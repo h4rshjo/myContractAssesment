@@ -26,7 +26,7 @@ To run this program, you will need:
    - In the left-hand sidebar, click on the "+" icon to create a new file. Save the file with a `.sol` extension (e.g., `MyContract.sol`).
 
 3. **Copy and Paste the Code**
-   - Copy and paste code from the MyContract.sol into your new file:
+   - Copy and paste code from the `MyContract.sol` into your new file:
 
 4. **Compile the Code**
    - Click on the "Solidity Compiler" tab in the left-hand sidebar. Ensure the "Compiler" option is set to `0.8.0` (or another compatible version), and then click on the "Compile MyContract.sol" button.
